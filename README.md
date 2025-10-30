@@ -1,4 +1,4 @@
-# Honeypot (T-Pot) Project
+# HoneyPot (T-Pot) Project
 
 ## Objective
 
